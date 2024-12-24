@@ -59,7 +59,6 @@ export default function Page() {
 
     return (
         <div className="min-h-screen bg-gradient-to-b from-gray-50 to-gray-100 p-8">
-            <ModeToggle></ModeToggle>
             <div className="max-w-4xl mx-auto">
                 <div className="text-center mb-12">
                     <div className="flex items-center justify-center gap-3 mb-4">
